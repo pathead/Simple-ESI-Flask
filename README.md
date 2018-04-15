@@ -5,5 +5,5 @@ This is a bare-bones method of obtaining an ESI oauth token for a character that
 https://esi.tech.ccp.is/ui/
 
 
-Requirements:
+Requirements:  
 pip install flask requests Requests-OAuthlib
